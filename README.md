@@ -17,9 +17,9 @@
 ### Introduction
 
 - 🔭 Postgraduate of Computer Science(Artificial Intelligence) in Beijing Information Science And Technology University, China
-- 🙋 His research interests include machine learning, data mining and time series prediction.
+- 🙋 My research interests include machine learning, data mining and time series prediction.
 - 🤖️ [leetcode-master](https://github.com/youngyangyang04/leetcode-master) Contributer
-- 💬 Ask him about Java, Python and his projects on ironarisan@foxmail.com
+- 💬 Ask me about Java, Python and my projects on ironarisan@foxmail.com
 
 <hr>
 
