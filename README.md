@@ -7,7 +7,6 @@
 
 [![Blog Badge](https://img.shields.io/badge/blog-https%3A%2F%2Fironartisan.github.io%2F-brightgreen)](https://ironartisan.github.io/) 
 [![Mail Badge](https://img.shields.io/badge/-ironartisan@foxmial.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ironartisan@foxmial.com)](mailto:ironartisan@foxmial.com)
-[comment]: <> (![visitor]&#40;https://visitor-badge.glitch.me/badge?page_id=ironartisan.visitor-badge&#41;)
 
 </div>
 
