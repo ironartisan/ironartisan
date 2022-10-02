@@ -16,8 +16,8 @@
 
 ### Introduction
 
-- 🔭 Postgraduate of Computer Science(Artificial Intelligence) in Beijing Information Science and Technology University, China
-- 🙋 My research interests include machine learning, data mining and time series prediction
+- 🔭 Ph.D. candidate of Computer Science(Artificial Intelligence) 
+- 🙋 My research interests include machine learning, data mining and natural language processing
 - 💬 Ask me about Java, Python and Machine Learning on ironarisan@foxmail.com
 
 <hr>
